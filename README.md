@@ -53,7 +53,7 @@
 
 ---
 
-### 📝 Last Research items
+### 📝 Last Research items (Pre-prints)
 
 <!-- YT:START -->
 - [Detección de vulnerabilidades en N TimePad con Machine Learning y RedesNeuronales Convolucionales](https://www.researchgate.net/publication/348430803_Deteccion_de_vulnerabilidades_en_N_TimePad_con_Machine_Learning_y_RedesNeuronales_Convolucionales)
