@@ -16,9 +16,9 @@
 
 ### 🚀 Coding
 
-[<img align="left" alt="Python" width="26px" src="https://github.com/alitoxSB/imagen/blob/main/5848152fcef1014c0b5e4967.png?raw=true" />][website]
+[<img align="left" alt="Python" width="26px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />][website]
 
-[<img align="left" alt="Java" width="26px" src="https://github.com/alitoxSB/imagen/blob/main/png-clipart-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-thumbnail.png?raw=true" />][website]
+[<img align="left" alt="Java" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon-700x392.png" />][website]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 
