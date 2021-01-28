@@ -24,7 +24,7 @@
 
 [<img align="left" alt="Rust" width="26px" src="https://github.com/alitoxSB/imagen/blob/main/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png?raw=true" />][website]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img align="left" alt="React" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/PgcSR.png?raw=true" />][website]
 
 [<img align="left" alt="HTML" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/120px-CSS3_logo_and_wordmark.svg.png?raw=true" />][website]
 
