@@ -16,7 +16,7 @@
 
 ### 🚀 Coding
 
-[<img align="left" alt="Python" width="26px" src="http://clipart-library.com/image_gallery2/Python-Logo-PNG-Image.png" />][website]
+[<img align="left" alt="Python" width="26px" src="http://clipart-library.com/new_gallery/289-2896071_python-logo-png-165709.png" />][website]
 
 [<img align="left" alt="Java" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon-700x392.png" />][website]
 
