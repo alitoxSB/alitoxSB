@@ -22,11 +22,11 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" />][website]
 
-[<img align="left" alt="Rust" width="26px" src="https://github.com/alitoxSB/imagen/blob/main/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png?raw=true" />][website]
+[<img align="left" alt="Rust" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/asasa.png?raw=true"/>][website]
 
 [<img align="left" alt="React" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/PgcSR.png?raw=true" />][website]
 
-[<img align="left" alt="HTML" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/120px-CSS3_logo_and_wordmark.svg.png?raw=true" />][website]
+[<img align="left" alt="HTML" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/PgcSR.png?raw=true" />][website]
 
 [<img align="left" alt="Docker" width="26px" src="https://github.com/alitoxSB/imagen/blob/main/vertical-logo-monochromatic.png?raw=true" />][website]
 
