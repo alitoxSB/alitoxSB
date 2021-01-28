@@ -24,7 +24,7 @@
 
 [<img align="left" alt="Rust" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/asasa.png?raw=true"/>][website]
 
-[<img align="left" alt="React" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/PgcSR.png?raw=true" />][website]
+[<img align="left" alt="React" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/120px-CSS3_logo_and_wordmark.svg.png?raw=true" />][website]
 
 [<img align="left" alt="HTML" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/PgcSR.png?raw=true" />][website]
 
