@@ -26,7 +26,7 @@
 
 [<img align="left" alt="React" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/58480e82cef1014c0b5e4927.png?raw=true" />][website]
 
-[<img align="left" alt="Docker" width="26px" src="https://github.com/alitoxSB/imagen/blob/main/vertical-logo-monochromatic.png?raw=true" />][website]
+[<img align="left" alt="Docker" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/vertical-logo-monochromatic.png?raw=true" />][website]
 
 [<img align="left" alt="HTML" width="26px" src="https://github.com/alitoxSB/alitoxSB/blob/main/Technologies/PgcSR.png?raw=true" />][website]
 
