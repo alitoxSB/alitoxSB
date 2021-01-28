@@ -20,7 +20,7 @@
 
 [<img align="left" alt="Java" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon-700x392.png" />][website]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" />][website]
 
 [<img align="left" alt="Rust" width="26px" src="https://github.com/alitoxSB/imagen/blob/main/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png?raw=true" />][website]
 
