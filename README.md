@@ -59,7 +59,7 @@
 
 <!-- YT:START -->
 - [Detección de vulnerabilidades en N TimePad con Machine Learning y RedesNeuronales Convolucionales](https://www.researchgate.net/publication/348430803_Deteccion_de_vulnerabilidades_en_N_TimePad_con_Machine_Learning_y_RedesNeuronales_Convolucionales)
-- [Fake News: Canales de propagación, incentivos principales y medición de su impacto.]()
+- [Fake News: Canales de propagación, incentivos principales y medición de su impacto.](https://dspace.ulead.ac.cr/repositorio/handle/123456789/144)
 <!-- YT:END -->
 
 📌 [More articles...][website]
